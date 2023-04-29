@@ -14,6 +14,8 @@ Data science virtual internship programme by British Airways through Forage!
 - creating a classification model to predict customer buying behaviour
 - preparing a powerpoint representation to highlight our insights and analysis
 
+![predict model](https://user-images.githubusercontent.com/100337978/235281510-7e7a206e-ce2c-4796-80fd-52237ff49a07.png)
+
 
 
 
